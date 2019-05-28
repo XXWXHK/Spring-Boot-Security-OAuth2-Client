@@ -29,6 +29,7 @@ Spring Boot 整合 Security OAuth2 Client。
 	- Thymeleaf                     Thymeleaf模板引擎（页面）
     
 - Security
+    - Security                      通过 Spring Security 保护您的应用程序
     - OAuth2 Client                 Spring Boot 集成 Spring Security OAuth2/OpenID 客户端连接功能
     - OAuth2 Resource Server        Spring Boot 集成 Spring Security OAuth2 资源服务器功能
     - Okta                          Spring Security/Spring Boot OAuth2 配置 Okta 具体的功能
