@@ -22,6 +22,9 @@ Spring Boot 整合 Security OAuth2 Client。
 - Spring Boot
     - 2.1.5.RELEASE
     
+- Template
+	- Thymeleaf                     Thymeleaf模板引擎（页面）
+    
 - Security
     - OAuth2 Client                 Spring Boot 集成 Spring Security OAuth2/OpenID 客户端连接功能 
     
