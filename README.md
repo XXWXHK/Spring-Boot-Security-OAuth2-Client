@@ -22,6 +22,9 @@ Spring Boot 整合 Security OAuth2 Client。
 - Spring Boot
     - 2.1.5.RELEASE
     
+- Core
+    - Configuration Processor       为您的自定义配置键生成元数据（注解处理器）。
+    
 - Web
     - Web                           使用Tomcat和Spring MVC进行全栈Web开发
     
