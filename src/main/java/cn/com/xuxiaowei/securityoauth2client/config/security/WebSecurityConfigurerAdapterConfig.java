@@ -16,7 +16,7 @@ public class WebSecurityConfigurerAdapterConfig extends WebSecurityConfigurerAda
 
     @Override
     protected void configure(HttpSecurity http) throws Exception {
-        super.configure(http);
+//        super.configure(http);
     }
 
     @Override
