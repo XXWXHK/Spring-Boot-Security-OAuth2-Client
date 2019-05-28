@@ -31,6 +31,7 @@ Spring Boot 整合 Security OAuth2 Client。
 - Security
     - OAuth2 Client                 Spring Boot 集成 Spring Security OAuth2/OpenID 客户端连接功能
     - OAuth2 Resource Server        Spring Boot 集成 Spring Security OAuth2 资源服务器功能
+    - Okta                          Spring Security/Spring Boot OAuth2 配置 Okta 具体的功能
     
     
 ## 其他依赖（创建项目时不可选）
