@@ -1,12 +1,8 @@
-# Spring-Boot-Security-OAuth2-Client
-Spring Boot 整合 Security OAuth2 Client。
+# 捐助与转载
 
+- 整理不易，捐助随意。
 
-# 欢迎捐助
-
-- 如果您觉得本项目对您有帮助，请捐助，谢谢。
-
-- 您的捐助就是我最大的动力。
+- 尊重他人的劳动成果，转载请注明地址。
 
 <p align=center>
   <a href="https://xuxiaowei.com.cn">
@@ -14,6 +10,8 @@ Spring Boot 整合 Security OAuth2 Client。
   </a>
 </p>
 
+# Spring-Boot-Security-OAuth2-Client
+Spring Boot 整合 Security OAuth2 Client。
 
 # 依赖
 
